@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
-
 <h2> Hey there! Rafael.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -27,8 +23,8 @@
 <br/>
 
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelCunhaS&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCunhaS&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelCunhaS&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCunhaS&theme=dracula&layout=compact" />
 </a>
 
 <br/>
