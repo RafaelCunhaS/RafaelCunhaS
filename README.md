@@ -4,7 +4,7 @@
 
 - 🔭 &nbsp; Exploring new technologies and a passionate about Web Development.
 - 🎓 &nbsp; Studying at Trybe, a FullStack web development school.
-- 🌱 &nbsp; I'm constantly learning new tools and skills as well as constantly making new projects at the Trybe course.
+- 🌱 &nbsp; I'm constantly learning new tools and skills as well as making new projects at the Trybe course.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
