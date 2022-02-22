@@ -9,7 +9,6 @@
 - 🔭 &nbsp; Exploring new technologies and a passionate about Web Development.
 - 🎓 &nbsp; Studying at Trybe, a FullStack web development school.
 - 🌱 &nbsp; I'm constantly learning new tools and skills as weel as constantly making new projects at the Trybe course.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -28,8 +27,8 @@
 <br/>
 
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelCunhaS&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCunhaS&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -37,5 +36,5 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="mailto:rafaelcs_94@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:rafaelcs_94@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rafaelcs_94@hotmail.com-blue?style=flat-square&logo=hotmail"></a>
 </p>
