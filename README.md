@@ -23,8 +23,8 @@
 <br/>
 
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelCunhaS&theme=dracula&show_icons=true&layout=compact" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCunhaS&theme=dracula&layout=compact" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RafaelCunhaS&theme=dracula&show_icons=true&layout=compact" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCunhaS&theme=dracula&layout=compact" />
 </a>
 
 <br/>
