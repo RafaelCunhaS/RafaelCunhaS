@@ -4,7 +4,7 @@
 
 - 🔭 &nbsp; Exploring new technologies and a passionate about Web Development.
 - 🎓 &nbsp; Studying at Trybe, a FullStack web development school.
-- 🌱 &nbsp; I'm constantly learning new tools and skills as well as making new projects at the Trybe course.
+- 🌱 &nbsp; I'm constantly learning new tools and skills as well as making new projects at the Trybe course and personal ones.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -23,7 +23,7 @@
 <br/>
 
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelCunhaS&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelCunhaS&theme=dracula&show_icons=true&layout=compact" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCunhaS&theme=dracula&layout=compact" />
 </a>
 
