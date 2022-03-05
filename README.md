@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🔭 &nbsp; Exploring new technologies and a passionate about Web Development.
+- 🔭 &nbsp; Exploring new technologies and a passionate about problem solving.
 - 🎓 &nbsp; Studying at Trybe, a FullStack web development school.
 - 🌱 &nbsp; I'm constantly learning new tools and skills as well as making new personal projects and along with the Trybe course.
 
