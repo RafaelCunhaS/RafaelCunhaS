@@ -29,7 +29,10 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RafaelCunhaS&theme=dracula&show_icons=true&layout=compact" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCunhaS&theme=dracula&layout=compact" />
 </a>
-
+<p align="left">
+  ReadMe stats by 
+  <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats"> @anuraghazra</a>
+</p>
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
