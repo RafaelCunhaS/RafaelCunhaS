@@ -35,6 +35,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/rafaelcunhas"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-Rafael Santos-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/rafaelcunhas"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-Rafael Santos-blue?style=flat-square&logo=linkedin&logoColor=0e76a8"></a>
 <a href="mailto:rafaelcs_94@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rafaelcs_94@hotmail.com-blue?style=flat-square&logo=hotmail"></a>
 </p>
