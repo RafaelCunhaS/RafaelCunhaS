@@ -31,7 +31,7 @@
 </a>
 <p align="left">
   ReadMe stats by 
-  <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats"> @anuraghazra</a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"> @anuraghazra</a>
 </p>
 <br/>
 
