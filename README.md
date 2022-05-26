@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Rafael.</h2> <a href="https://www.codewars.com/users/RafaelCunhaS" target="blank"><img align="center" src="https://www.codewars.com/users/RafaelCunhaS/badges/small" alt="RafaelCunhaS" /></a>
+<h2> Hey there! I'm Rafael.</h2> <a href="https://www.codewars.com/users/RafaelCunhaS" target="blank"><img align="center" src="https://www.codewars.com/users/RafaelCunhaS/badges/large" alt="RafaelCunhaS" /></a>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
