@@ -17,6 +17,7 @@
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux&logoColor=764ABC)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=215732)
   ![Mocha](https://img.shields.io/badge/-Mocha-333333?style=flat&logo=mocha&logoColor=for-the-badge)
+  ![Chai](https://img.shields.io/badge/-Chai-333333?style=flat&logo=chai&logoColor=A1070C)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL&logoColor=00758F)
   ![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=sequelize&logoColor=for-the-badge)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=0db7ed)
