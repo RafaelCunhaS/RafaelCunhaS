@@ -15,6 +15,7 @@
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=99424F)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux&logoColor=764ABC)
+  ![RTL](https://img.shields.io/badge/-RTL-333333?style=flat&logo=testing-library&logoColor=E33332)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=215732)
   ![Mocha](https://img.shields.io/badge/-Mocha-333333?style=flat&logo=mocha&logoColor=for-the-badge)
   ![Chai](https://img.shields.io/badge/-Chai-333333?style=flat&logo=chai&logoColor=A1070C)
