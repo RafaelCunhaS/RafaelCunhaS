@@ -24,6 +24,7 @@
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=0db7ed)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=for-the-badge)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=for-the-badge)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=for-the-badge)
 - 🛢 &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
