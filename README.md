@@ -23,6 +23,8 @@
   ![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=sequelize&logoColor=for-the-badge)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=0db7ed)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=for-the-badge)
+  ![NestJS](https://img.shields.io/badge/-Nestjs-333333?style=flat&logo=nestjs&logoColor=E0234E)
+  ![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=swagger&logoColor=for-the-badge)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=for-the-badge)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=FFD43B)
 - 🛢 &nbsp;
